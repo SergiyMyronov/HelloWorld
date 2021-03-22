@@ -29,3 +29,5 @@ print(List5)
 
 print(f'\nMax is {max(List5)}, \nMin is {min(List5)}, \nSum is {sum(List5)}')
 
+raise random.choice([ZeroDivisionError, ImportError, KeyError, UnicodeError, StopIteration])
+
