@@ -1,0 +1,16 @@
+{
+    "quiz": {
+        "q1": {
+            "question": "What is your name?",
+            "answer": "Donald Trump"
+        },
+        "q2": {
+            "question": "Do you like Python?",
+            "answer": "Yes"
+        },
+        "q3": {
+            "question": "What is your favorite color?",
+            "answer": "White"
+        }
+    }
+}
