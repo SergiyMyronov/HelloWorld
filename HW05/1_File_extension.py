@@ -8,3 +8,5 @@ if file_name == '' or file_name[0] == '.' or '.' not in file_name or file_name[-
     raise RuntimeError('Incorrect file extension')
 else:
     print(f"File '{file_name}' has extension '{file_name[file_name.index('.')+1::]}'")
+
+# Можно через сплит по точке - берем последний элемент списка
