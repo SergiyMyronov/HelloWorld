@@ -2,7 +2,7 @@
     "quiz": {
         "q1": {
             "question": "What is your name?",
-            "answer": "Donald Trump"
+            "answer": "Man"
         },
         "q2": {
             "question": "Do you like Python?",
@@ -10,7 +10,7 @@
         },
         "q3": {
             "question": "What is your favorite color?",
-            "answer": "White"
+            "answer": "Dark Blue"
         }
     }
 }
